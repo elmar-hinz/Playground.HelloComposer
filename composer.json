@@ -1,0 +1,12 @@
+{
+    "name": "elmar-hinz/Playground.HelloComposer",
+    "description": "Hello World!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elmar Hinz",
+            "email": "t3elmar@gmail.com"
+        }
+    ],
+    "require": {}
+}
