@@ -1,5 +1,5 @@
 {
-    "name": "elmar-hinz/Playground.HelloComposer",
+    "name": "elmar-hinz/hello",
     "description": "Hello World!",
     "license": "MIT",
     "authors": [
@@ -8,5 +8,4 @@
             "email": "t3elmar@gmail.com"
         }
     ],
-    "require": {}
 }
